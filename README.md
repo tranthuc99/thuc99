@@ -1,3 +1,1 @@
-$$
-ax^2+bx+c=0
-$$
+\\( \mathbf{w}^T\mathbf{x} \\)
