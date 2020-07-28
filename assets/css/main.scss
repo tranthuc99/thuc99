@@ -1,0 +1,16 @@
+---
+# for jekyll
+---
+
+$bg: #464646;
+$text: #BEBEBE;
+
+body {
+	color: $text;
+	background: $bg;
+}
+
+.container {
+	width: 600px;
+	margin: auto;
+}

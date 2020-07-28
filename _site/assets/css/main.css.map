@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"main.scss"
+	],
+	"sourcesContent": [
+		"$bg: #464646;\n$text: #BEBEBE;\n\nbody {\n\tcolor: $text;\n\tbackground: $bg;\n}\n\n.container {\n\twidth: 600px;\n\tmargin: auto;\n}"
+	],
+	"names": [],
+	"mappings": "AAGA,AAAA,IAAI,CAAC,EACJ,KAAK,EAHC,OAAO,EAIb,UAAU,EALN,OAAO,GAMX;;AAED,AAAA,UAAU,CAAC,EACV,KAAK,EAAE,KAAK,EACZ,MAAM,EAAE,IAAI,GACZ"
+}
